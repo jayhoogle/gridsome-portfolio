@@ -1,6 +1,6 @@
 ---
 date: 2022-03-14
-thumbnail: ''
+thumbnail: "/uploads/header-1-1024x901.png"
 title: Tackling Gambling Stigma
 categories:
 - wordpress
