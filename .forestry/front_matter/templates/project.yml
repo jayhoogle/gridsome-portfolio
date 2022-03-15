@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/clean-up-gambling.md
 - projects/gamlearn.md
 - projects/instantcard.md
 - projects/tackling-gambling-stigma.md
