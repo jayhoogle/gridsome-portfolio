@@ -8,7 +8,9 @@
             <div class="url-container">
               <div class="url">
                 <span class="label">URL</span>
-                <a href="$page.post.url" target="_blank" rel="noreferrer" />
+                <a href="$page.post.url" target="_blank" rel="noreferrer"
+                  >View project</a
+                >
               </div>
             </div>
 
