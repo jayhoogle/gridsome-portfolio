@@ -1,5 +1,5 @@
 ---
-date: 2022-03-14
+date: 2022-03-01
 thumbnail: "/uploads/collaboration.svg"
 title: Vita CA
 categories:
@@ -7,6 +7,7 @@ categories:
 - website design
 project_bg_color: "#ACDCF1"
 project_fg_color: "#000000"
+url: "[vitaca.co.uk](https://vitaca.co.uk)"
 
 ---
 **A modern website for a modern consultancy.**
