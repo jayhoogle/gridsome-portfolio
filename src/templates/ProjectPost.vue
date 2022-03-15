@@ -9,7 +9,7 @@
               <div class="url">
                 <span class="label">URL</span>
                 <a
-                  :key="$page.post.url"
+                  class="url-link"
                   :href="$page.post.url"
                   target="_blank"
                   rel="noreferrer"
