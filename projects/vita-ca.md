@@ -11,4 +11,8 @@ project_fg_color: "#000000"
 ---
 **A modern website for a modern consultancy.**
 
-This website was designed in Figma and built as a Wordpress theme.
+I designed and built this website for the new Vita CA consultancy.
+
+The client had several requirements for this website - that it be friendly, professional and built using Wordpress.
+
+This website was designed in Figma and built as an Oxygen Wordpress theme.
