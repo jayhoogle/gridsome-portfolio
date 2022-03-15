@@ -1,7 +1,8 @@
 ---
-date: 2022-03-14
+date: 2021-05-10
 thumbnail: "/uploads/og-image.jpeg"
 title: InstantCard
+url: [InstantCard](https://instantcard.co.uk)
 categories:
 - next.js
 - tailwindcss
@@ -11,6 +12,7 @@ project_bg_color: "#EAB308"
 project_fg_color: "#000000"
 
 ---
+
 **A tool to quickly generate high-quality images from articles for sharing on social media.**
 
-While working with [LabourList](https://labourlist.org), one of the 
+While working with [LabourList](https://labourlist.org), one of the
