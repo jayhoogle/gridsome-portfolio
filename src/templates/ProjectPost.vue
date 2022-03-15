@@ -13,7 +13,7 @@
                   :href="$page.post.url"
                   target="_blank"
                   rel="noreferrer"
-                  v-bind:style="{ color: page.post.project_fg_color }"
+                  v-bind:style="{ color: $page.post.project_fg_color }"
                   >View project</a
                 >
               </div>
