@@ -8,7 +8,7 @@
             <div class="url-container">
               <div class="url">
                 <span class="label">URL</span>
-                <div v-html="$page.post.url" />
+                <a href="$page.post.url" target="_blank" rel="noreferrer" />
               </div>
             </div>
 
@@ -85,9 +85,7 @@ export default {
   display: flex;
   flex-wrap: wrap;
   font-size: 0.8rem;
-}
-.project-info > div {
-  margin-right: 4rem;
+  gap: 20px;
 }
 .project-info > div:last-of-type {
   margin: 0;
