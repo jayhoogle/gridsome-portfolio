@@ -8,7 +8,11 @@
             <div class="url-container">
               <div class="url">
                 <span class="label">URL</span>
-                <a :href="$page.post.url" target="_blank" rel="noreferrer"
+                <a
+                  :key="$page.post.url"
+                  :href="$page.post.url"
+                  target="_blank"
+                  rel="noreferrer"
                   >View project</a
                 >
               </div>
