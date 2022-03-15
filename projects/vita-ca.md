@@ -2,14 +2,14 @@
 date: 2022-03-01
 thumbnail: "/uploads/collaboration.svg"
 title: Vita CA
+url: "[vitaca.co.uk](https://vitaca.co.uk)"
 categories:
-- wordpress
-- website design
+  - wordpress
+  - website design
 project_bg_color: "#ACDCF1"
 project_fg_color: "#000000"
-url: "[vitaca.co.uk](https://vitaca.co.uk)"
-
 ---
+
 **A modern website for a modern consultancy.**
 
 I designed and built this website for the new Vita CA consultancy.

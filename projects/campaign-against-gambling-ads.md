@@ -2,7 +2,7 @@
 date: 2020-10-01
 thumbnail: "/uploads/og-image-1.jpeg"
 title: Coalition Against Gambling Ads
-url: [caga.uk](https://caga.uk)
+url: "[caga.uk](https://caga.uk)"
 categories:
   - brand design
   - website development
