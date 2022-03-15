@@ -35,6 +35,12 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
+  description: The finished project's URL.
 pages:
 - projects/campaign-against-gambling-ads.md
 - projects/clean-up-gambling.md
