@@ -36,14 +36,11 @@ fields:
     color_format: Hex
   label: Foreground color
 - name: url
-  type: textarea
-  default: ''
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
   label: URL
+  description: The project's URL.
 pages:
 - projects/campaign-against-gambling-ads.md
 - projects/clean-up-gambling.md
