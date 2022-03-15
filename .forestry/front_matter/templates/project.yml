@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/campaign-against-gambling-ads.md
 - projects/clean-up-gambling.md
 - projects/gamlearn.md
 - projects/instantcard.md
