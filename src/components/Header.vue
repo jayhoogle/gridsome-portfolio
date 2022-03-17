@@ -9,7 +9,7 @@
       <div class="nav left">
         <g-link
           :to="{ name: 'home' }"
-          class="nav__link"
+          class="home-link"
           style="color: inherit;"
         >
           James Calmus
