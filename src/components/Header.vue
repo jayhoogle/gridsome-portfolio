@@ -8,7 +8,7 @@
     <div class="container">
       <div class="left">
         <g-link :to="{ name: 'home' }" class="home-link">
-          <img src="../favicon.png" :alt="settings.site_name" class="logo" />
+          James Calmus
         </g-link>
       </div>
       <nav class="nav right">
@@ -23,7 +23,6 @@
 export default {
   data() {
     return {
-      logo: require("../favicon.png"),
       settings: require("../../data/theme.json"),
     };
   },
@@ -50,9 +49,6 @@ export default {
 }
 .home-link {
   text-decoration: none;
-}
-.logo {
-  height: 1.5rem;
 }
 .site-name {
   font-size: 0.9rem;
