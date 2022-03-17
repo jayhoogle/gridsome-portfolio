@@ -6,7 +6,7 @@
     }"
   >
     <div class="container">
-      <div class="nav left">
+      <div class="left">
         <g-link
           :to="{ name: 'home' }"
           class="home-link"
