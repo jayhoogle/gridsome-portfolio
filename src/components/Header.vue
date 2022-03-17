@@ -7,7 +7,7 @@
   >
     <div class="container">
       <div class="left">
-        <g-link :to="{ name: 'home' }" class="home-link">
+        <g-link :to="{ name: 'home' }" class="nav__link">
           James Calmus
         </g-link>
       </div>
