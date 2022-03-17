@@ -6,12 +6,8 @@
     }"
   >
     <div class="container">
-      <div class="left">
-        <g-link
-          :to="{ name: 'home' }"
-          class="home-link"
-          style="color: inherit;"
-        >
+      <div class="nav left">
+        <g-link :to="{ name: 'home' }" class="home-link">
           James Calmus
         </g-link>
       </div>
