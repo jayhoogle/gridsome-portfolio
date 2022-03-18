@@ -19,4 +19,4 @@ project_fg_color: "#000000"
 
 The team behind Clean Up Gambling wanted a site for their new campaign, the Coalition Against Gambling Ads (CAGA). It needed to display the evidence behind the campaign, the members of the coalition and the videos developed for the campaign.
 
-I designed the site in Figma and developed it using Next.js, TailwindCSS and Sanity.io.
+I designed the site in Figma and developed it using Next.js, TailwindCSS and Sanity.io. It's hosted on the super-fast Vercel.
