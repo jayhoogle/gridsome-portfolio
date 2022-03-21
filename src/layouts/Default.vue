@@ -70,7 +70,7 @@ h1 {
 }
 
 a {
-  color: inherit !important;
+  color: inherit;
 }
 
 img {

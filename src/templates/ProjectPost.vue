@@ -38,7 +38,11 @@
           </div>
         </div>
 
-        <div v-html="$page.post.content" class="content" />
+        <div
+          v-html="$page.post.content"
+          class="content"
+          v-bind:style="{ color: $page.post.project_fg_color }"
+        />
       </div>
     </div>
   </Layout>
