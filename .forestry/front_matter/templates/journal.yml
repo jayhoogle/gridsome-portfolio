@@ -24,4 +24,5 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 pages:
+- journal/my-new-portfolio.md
 - journal/test-journal.md
