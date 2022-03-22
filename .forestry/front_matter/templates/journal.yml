@@ -25,4 +25,3 @@ fields:
   default: now
 pages:
 - journal/my-new-portfolio.md
-- journal/test-journal.md
