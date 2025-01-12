@@ -1,17 +1,18 @@
 ---
-date: 2022-03-01
-thumbnail: "/uploads/vertical-logo-actual-color-1920w.webp"
+date: 2022-03-01T00:00:00.000Z
+thumbnail: /uploads/vertical-logo-actual-color-1920w.webp
 title: GamLEARN
-url: https://gamlearn.org.uk/
+url: 'https://gamlearn.org.uk/'
 categories:
-- design
-- names.co.uk
-- css
-- figma
-project_bg_color: "#7B2CBF"
-project_fg_color: "#FFFFFF"
-
+  - design
+  - names.co.uk
+  - css
+  - figma
+project_bg_color: '#7B2CBF'
+project_fg_color: '#FFFFFF'
+_template: project
 ---
+
 **A website for a new charity to help those who have experienced gambling-related harm.**
 
 GamLEARN is a brand new charity that was looking for a website that matched their ambitions.

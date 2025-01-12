@@ -4,5 +4,6 @@
   "site_name": "James Calmus",
   "site_description": "Web designer and developer",
   "hero_title": "Design. Development.",
-  "hero_subtitle": "Hi there, I'm a web designer and developer making good websites for great organisations."
+  "hero_subtitle": "Hi there, I'm a web designer and developer making good websites for great organisations.",
+  "_template": "theme_configuration"
 }

@@ -1,20 +1,21 @@
 ---
-date: 2020-05-01
-thumbnail: "/uploads/cugsocial.jpeg"
+date: 2020-05-01T00:00:00.000Z
+thumbnail: /uploads/cugsocial.jpeg
 title: Clean Up Gambling
-url: https://cleanupgambling.com
+url: 'https://cleanupgambling.com'
 categories:
-- brand design
-- website development
-- next.js
-- tailwindcss
-- graphql
-- jwplayer
-- sanity.io
-project_bg_color: "#12A26E"
-project_fg_color: "#FFFFFF"
-
+  - brand design
+  - website development
+  - next.js
+  - tailwindcss
+  - graphql
+  - jwplayer
+  - sanity.io
+project_bg_color: '#12A26E'
+project_fg_color: '#FFFFFF'
+_template: project
 ---
+
 **A campaign to reform gambling legislation was looking for a website to launch and support their campaign.**
 
 This site had to host a few important features - a lobby tool to email MPs, a blog to keep people up-to-date on the campaign's progress, and some tools to share key figures on social media.

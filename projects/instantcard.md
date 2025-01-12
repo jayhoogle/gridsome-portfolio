@@ -1,17 +1,18 @@
 ---
-date: 2021-05-10
-thumbnail: "/uploads/og-image.jpeg"
+date: 2021-05-10T00:00:00.000Z
+thumbnail: /uploads/og-image.jpeg
 title: InstantCard
-url: https://instantcard.co.uk
+url: 'https://instantcard.co.uk'
 categories:
-- next.js
-- tailwindcss
-- faunadb
-- graphql
-project_bg_color: "#EAB308"
-project_fg_color: "#000000"
-
+  - next.js
+  - tailwindcss
+  - faunadb
+  - graphql
+project_bg_color: '#EAB308'
+project_fg_color: '#000000'
+_template: project
 ---
+
 **A tool to quickly generate high-quality images from articles for sharing on social media.**
 
 While working with [LabourList](https://labourlist.org), I wanted to help grow the social media following on Instagram, and took to designing images in Figma to get the kind of control over style that I wanted.

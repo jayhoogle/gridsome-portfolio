@@ -1,17 +1,18 @@
 ---
-date: 2021-09-01
-thumbnail: "/uploads/header-1-1024x901.png"
+date: 2021-09-01T00:00:00.000Z
+thumbnail: /uploads/header-1-1024x901.png
 title: Tackling Gambling Stigma
-url: https://tacklinggamblingstigma.com
+url: 'https://tacklinggamblingstigma.com'
 categories:
-- wordpress
-- design
-- development
-- css
-project_bg_color: "#1C8F63"
-project_fg_color: "#FFFFFF"
-
+  - wordpress
+  - design
+  - development
+  - css
+project_bg_color: '#1C8F63'
+project_fg_color: '#FFFFFF'
+_template: project
 ---
+
 **A research-based campaign to reduce stigma related to harm from gambling.**
 
 The [Vita CA](https://vitaca.co.uk) team wanted to launch a website to help collect research for their new campaign, Tackling Gambling Stigma. They wanted a friendly website built on Wordpress - a CMS they knew - which would help collect data through forms.
