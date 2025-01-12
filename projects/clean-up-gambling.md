@@ -16,6 +16,7 @@ project_fg_color: '#FFFFFF'
 _template: project
 ---
 
+
 **A campaign to reform gambling legislation was looking for a website to launch and support their campaign.**
 
 This site had to host a few important features - a lobby tool to email MPs, a blog to keep people up-to-date on the campaign's progress, and some tools to share key figures on social media.

@@ -11,6 +11,7 @@ url: 'https://vitaca.co.uk'
 _template: project
 ---
 
+
 **A modern website for a modern consultancy.**
 
 I designed and built this website for the new Vita CA consultancy.

@@ -13,6 +13,7 @@ project_fg_color: '#FFFFFF'
 _template: project
 ---
 
+
 **A research-based campaign to reduce stigma related to harm from gambling.**
 
 The [Vita CA](https://vitaca.co.uk) team wanted to launch a website to help collect research for their new campaign, Tackling Gambling Stigma. They wanted a friendly website built on Wordpress - a CMS they knew - which would help collect data through forms.

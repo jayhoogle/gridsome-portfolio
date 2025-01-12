@@ -16,6 +16,7 @@ project_fg_color: '#000000'
 _template: project
 ---
 
+
 **A website for an anti-gambling advertisement campaign.**
 
 The team behind Clean Up Gambling wanted a site for their new campaign, the Coalition Against Gambling Ads (CAGA). It needed to display the evidence behind the campaign, the members of the coalition and the videos developed for the campaign.
